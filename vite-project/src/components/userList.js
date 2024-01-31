@@ -1,0 +1,18 @@
+export const userNames = [
+    "JAGUAR • ŞAH",
+    "XorazimSila",
+    "XONKASila",
+    "1 VS 4 • LONELY",
+    "UZBrampage",
+    "ツISMOILOVツ",
+    "jalol4511",
+    "CRISTALuzb",
+    "LEBRON • ŞAH",
+    "XIWNIK • ŞAH",
+    "KHALID AXI",
+    "Borze",
+    "X1XOREZM",
+    "SERVICE • ŞAH",
+    "AZIMJON7550",
+    "T7HARD",
+]
